@@ -1,4 +1,4 @@
-<img width="1360" height="834" alt="Blank diagram (4)" src="https://github.com/user-attachments/assets/04a63e5b-4c43-41c9-be45-40bda81ad035" />Real-time News Subscription Service
+Real-time News Subscription Service
 
 Background: You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
 
