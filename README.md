@@ -1,4 +1,4 @@
-Real-time News Subscription Service
+<img width="1360" height="834" alt="Blank diagram (4)" src="https://github.com/user-attachments/assets/04a63e5b-4c43-41c9-be45-40bda81ad035" />Real-time News Subscription Service
 
 Background: You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
 
@@ -29,3 +29,7 @@ Constraints:
 
 The system should be scalable to handle a growing number of subscribers without compromising performance.
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
+
+
+
+<img width="1360" height="834" alt="Blank diagram (4)" src="https://github.com/user-attachments/assets/8e9722cc-fe97-4535-86ea-754f564878b4" />
